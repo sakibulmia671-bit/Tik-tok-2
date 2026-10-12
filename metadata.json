@@ -1,0 +1,6 @@
+{
+  "name": "TikTok",
+  "description": "টিক টক ভিডিও ফিড, ট্রেন্ডিং কনটেন্ট, মিউজিক ও ক্রিয়েটর স্টুডিও সহ শর্ট-ফর্ম ভিডিও প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
